@@ -1,1 +1,1 @@
-CreateObject("WScript.Shell").Run "C:\Users\haru_\mob.bat",0
+CreateObject("WScript.Shell").Run "バッチファイルのパス",0
