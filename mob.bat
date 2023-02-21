@@ -1,2 +1,2 @@
-cd C:\Users\haru_
+cd mobilehotspot.pyを配置したパス
 python mobilehotspot.py
