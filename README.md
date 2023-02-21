@@ -38,3 +38,4 @@ Win+Rで「shell:startup」と入力しOKを押して出てきたフォルダに
 ### mob.vbsのプログラム（これも参考というか丸パクリ)
 
 [https://m-suta.com/bibouroku-windows-batch-background/](https://m-suta.com/bibouroku-windows-batch-background/)
+
